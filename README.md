@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Rodion Kryuchkov, currently I work as:
+My name is Rodion Krjutškov (Kryuchkov), currently I work as:
 - Senior Backend Engineer @ 🚙 [Beast](https://beast.rent/) &mdash; making it possible to rent a Tesla in less than 5 minutes
 - Research Programmer @ 🏛️ [University of Tartu, Insistute of Computer Science](https://cs.ut.ee/en) &mdash; applying Large Language Models to Explainable AI
 
