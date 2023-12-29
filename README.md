@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Rodion Krjutškov (Kryuchkov), currently I work as Research Programmer @ 🏛️ [University of Tartu, Insistute of Computer Science](https://cs.ut.ee/en) &mdash; applying Large Language Models to Explainable AI.
+My name is Rodion Krjutškov (Kryuchkov).
 
 I program mostly in:
 - JavaScript ✨ Node.js, Next.js, React, React Native
