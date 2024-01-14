@@ -1,9 +1,9 @@
 ### Hello 👋
 
-My name is Rodion Krjutškov (Kryuchkov).
+My name is Rodion Krjutškov.
 
 I program mostly in:
-- JavaScript ✨ Node.js, Next.js, React, React Native
+- JavaScript ✨ Node.js, Next.js, React
 - Python 🐍 Flask, machine learning stacks
 
 I also have some experience in:
