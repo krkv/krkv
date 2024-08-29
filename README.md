@@ -3,8 +3,9 @@
 My name is Rodion Krjutškov.
 
 I program mostly in:
-- JavaScript ✨ Node.js, Next.js, React
-- Python 🐍 Flask, machine learning stacks
+- JavaScript & TypeScript ✨ Node.js, Next.js, NestJS, React
+- Python 🐍 Flask, Torch, machine learning tools
+- HTML & CSS 💛 I love web handicraft
 
 I also have some experience in:
 - Other programming languages: Scala, Go, Java, C#
